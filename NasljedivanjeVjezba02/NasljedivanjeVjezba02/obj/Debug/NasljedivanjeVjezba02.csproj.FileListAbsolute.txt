@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\NasljedivanjeVjezba02\NasljedivanjeVjezba02\bin\Debug\NasljedivanjeVjezba02.exe.config
+C:\Users\HP\source\repos\NasljedivanjeVjezba02\NasljedivanjeVjezba02\bin\Debug\NasljedivanjeVjezba02.exe
+C:\Users\HP\source\repos\NasljedivanjeVjezba02\NasljedivanjeVjezba02\bin\Debug\NasljedivanjeVjezba02.pdb
+C:\Users\HP\source\repos\NasljedivanjeVjezba02\NasljedivanjeVjezba02\obj\Debug\NasljedivanjeVjezba02.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NasljedivanjeVjezba02\NasljedivanjeVjezba02\obj\Debug\NasljedivanjeVjezba02.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\NasljedivanjeVjezba02\NasljedivanjeVjezba02\obj\Debug\NasljedivanjeVjezba02.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NasljedivanjeVjezba02\NasljedivanjeVjezba02\obj\Debug\NasljedivanjeVjezba02.exe
+C:\Users\HP\source\repos\NasljedivanjeVjezba02\NasljedivanjeVjezba02\obj\Debug\NasljedivanjeVjezba02.pdb
